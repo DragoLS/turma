@@ -1,0 +1,15 @@
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.csproj.AssemblyReference.cache
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.AssemblyInfoInputs.cache
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.AssemblyInfo.cs
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.csproj.CoreCompileInputs.cache
+D:\Projects\3vodnom\3vodnom\bin\Debug\net6.0\3vodnom.exe
+D:\Projects\3vodnom\3vodnom\bin\Debug\net6.0\3vodnom.deps.json
+D:\Projects\3vodnom\3vodnom\bin\Debug\net6.0\3vodnom.runtimeconfig.json
+D:\Projects\3vodnom\3vodnom\bin\Debug\net6.0\3vodnom.dll
+D:\Projects\3vodnom\3vodnom\bin\Debug\net6.0\3vodnom.pdb
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.dll
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\refint\3vodnom.dll
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.pdb
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\3vodnom.genruntimeconfig.cache
+D:\Projects\3vodnom\3vodnom\obj\Debug\net6.0\ref\3vodnom.dll
